@@ -1,0 +1,15 @@
+C:\Users\vinic\Documents\curso_C#\exerciciosCurso\ConsoleApp1\bin\Debug\net6.0\Transactions.exe
+C:\Users\vinic\Documents\curso_C#\exerciciosCurso\ConsoleApp1\bin\Debug\net6.0\Transactions.deps.json
+C:\Users\vinic\Documents\curso_C#\exerciciosCurso\ConsoleApp1\bin\Debug\net6.0\Transactions.runtimeconfig.json
+C:\Users\vinic\Documents\curso_C#\exerciciosCurso\ConsoleApp1\bin\Debug\net6.0\Transactions.dll
+C:\Users\vinic\Documents\curso_C#\exerciciosCurso\ConsoleApp1\bin\Debug\net6.0\Transactions.pdb
+C:\Users\vinic\Documents\curso_C#\exerciciosCurso\ConsoleApp1\obj\Debug\net6.0\Transactions.csproj.AssemblyReference.cache
+C:\Users\vinic\Documents\curso_C#\exerciciosCurso\ConsoleApp1\obj\Debug\net6.0\Transactions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Documents\curso_C#\exerciciosCurso\ConsoleApp1\obj\Debug\net6.0\Transactions.AssemblyInfoInputs.cache
+C:\Users\vinic\Documents\curso_C#\exerciciosCurso\ConsoleApp1\obj\Debug\net6.0\Transactions.AssemblyInfo.cs
+C:\Users\vinic\Documents\curso_C#\exerciciosCurso\ConsoleApp1\obj\Debug\net6.0\Transactions.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Documents\curso_C#\exerciciosCurso\ConsoleApp1\obj\Debug\net6.0\Transactions.dll
+C:\Users\vinic\Documents\curso_C#\exerciciosCurso\ConsoleApp1\obj\Debug\net6.0\refint\Transactions.dll
+C:\Users\vinic\Documents\curso_C#\exerciciosCurso\ConsoleApp1\obj\Debug\net6.0\Transactions.pdb
+C:\Users\vinic\Documents\curso_C#\exerciciosCurso\ConsoleApp1\obj\Debug\net6.0\Transactions.genruntimeconfig.cache
+C:\Users\vinic\Documents\curso_C#\exerciciosCurso\ConsoleApp1\obj\Debug\net6.0\ref\Transactions.dll
